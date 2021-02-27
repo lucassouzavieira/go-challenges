@@ -10,3 +10,6 @@ Articles:
 
 Articles:
 - [Go's Declaration Sintax](https://go.dev/blog/declaration-syntax)
+
+Exercises:
+- [Quiz Game](https://github.com/gophercises/quiz)
