@@ -13,3 +13,8 @@ Articles:
 
 Exercises:
 - [Quiz Game](https://github.com/gophercises/quiz)
+
+### Day 3
+
+Exercises:
+- [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
