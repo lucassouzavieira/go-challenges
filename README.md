@@ -19,3 +19,13 @@ Exercises:
 Exercises:
 - [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
 - [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
+
+### Day 4
+
+Exercises:
+- [Smallest Integer](#)
+
+### Day 5
+
+Exercises:
+- [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
